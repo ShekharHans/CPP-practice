@@ -1,0 +1,1 @@
+{"name":"Local: sum_array","url":"d:\\C++\\recursion\\sum_array.cpp","tests":[{"id":1662926499901,"input":"1\n5 4 5 6 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\recursion\\sum_array.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: divisor","url":"d:\\C++\\maths\\divisor.cpp","tests":[{"id":1660419100620,"input":"1000000","output":"49"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\maths\\divisor.cpp","group":"local","local":true}
