@@ -6,9 +6,9 @@ int main()
     int a;
     int b ;
     int c ;
+    cin>>a;
+    cin>>b;
     c=a+b ;
-    cin  >>"enter the value of a - " << endl;
-    cin >> "enter the value of b-" <<endl;
     cout<< c << endl;
 
     return 0;

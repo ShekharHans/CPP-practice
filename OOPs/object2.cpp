@@ -1,14 +1,19 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-#include "class2.cpp"
+#include "createClass.cpp"
+
 int main()
 {
-    TotalMarks s1;
-    TotalMarks s2;
-    s1.math=90;
-    s1.chem=85;
-    s1.bio=87;
-    cout<<s1.math<<" "<<s1.chem<<" "<<s1.bio<< endl;
-    s1.privateMarks();
+    Student s1;
+    Student *s2 = new Student;
+
+    s1.setAge(20);
+    s2->setAge(30);
+
+
+    s1.display();
+    s2->display();
+
+
     return 0;
 }
